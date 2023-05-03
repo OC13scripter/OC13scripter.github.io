@@ -109,3 +109,9 @@ a.active{
     background-color: rgb(25,25,25);
     color: rgb(60,60,60);
 }
+
+/* Home */
+.home{
+    background-color: rgba(0, 0, 0, 0);
+    width: 100%;
+}
